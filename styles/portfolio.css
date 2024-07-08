@@ -97,6 +97,10 @@ nav ul{
 }
 .banner-profile-pic{
   width: 580px;
+  height: 680px;
+   margin-left: auto;
+  
+  
 }
 /* main styles */
 main{
